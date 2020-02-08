@@ -1,2 +1,0 @@
-# Planetsdatatable
-Created with CodeSandbox
